@@ -18,7 +18,7 @@ COUNT = []
 OK = {}
 
 uptime = dt.now()
-os.system("wget https://telegra.ph/file/75ee20ec8d8c8bba84f02.jpg -O thumb.jpg")
+os.system("wget https://telegra.ph/file/c8510dc787aa503705ea1.jpg -O thumb.jpg")
 
 if not os.path.isdir("downloads/"):
     os.mkdir("downloads/")
